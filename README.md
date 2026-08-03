@@ -440,3 +440,7 @@
 <script src="script.js"></script>
 </body>
 </html>
+SCREENSHOT
+<img width="1600" height="881" alt="image" src="https://github.com/user-attachments/assets/0cb9cd12-9349-4e3f-85f4-c8251f7e1836" />
+<img width="1600" height="882" alt="image" src="https://github.com/user-attachments/assets/4fdb2ecb-6b2a-4e5e-8fcc-1eccd31d4881" />
+

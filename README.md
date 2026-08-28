@@ -447,3 +447,13 @@ SCREENSHOT
 <img width="1600" height="881" alt="image" src="https://github.com/user-attachments/assets/0cb9cd12-9349-4e3f-85f4-c8251f7e1836" />
 <img width="1600" height="882" alt="image" src="https://github.com/user-attachments/assets/4fdb2ecb-6b2a-4e5e-8fcc-1eccd31d4881" />
 
+
+
+##Outcome of Grocery App
+Developed a user-friendly Online Grocery Delivery Application for browsing and purchasing grocery products.
+Implemented product listing, product management, and order-related functionality.
+Created a responsive frontend for a smooth user experience.
+Developed REST APIs using Node.js and Express.js.
+Integrated MongoDB for storing and managing product and user data.
+Improved understanding of full-stack development, API integration, database management, and authentication.
+The application provides a convenient way for users to view groceries and place orders online.

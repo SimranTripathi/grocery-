@@ -457,4 +457,5 @@ SCREENSHOT
 * Developed REST APIs using Node.js and Express.js.
 * Integrated MongoDB for storing and managing product and user data.
 * Improved understanding of full-stack development, API integration, database management, and authentication.
-* The application provides a convenient way for users to view groceries and place orders online. View all details of past or present history order 
+* The application provides a convenient way for users to view groceries and place orders online. View all details of past or present history order
+* To do shopping all things 

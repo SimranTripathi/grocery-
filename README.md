@@ -449,13 +449,15 @@ SCREENSHOT
 
 
 
-##Outcome of Grocery App
-* Developed a user-friendly Online Grocery
-*  Delivery Application for browsing and purchasing grocery products.
-* Implemented product listing, product management, and order-related functionality.
-* Created a responsive frontend for a smooth user experience.
-* Developed REST APIs using Node.js and Express.js.
-* Integrated MongoDB for storing and managing product and user data.
-* Improved understanding of full-stack development, API integration, database management, and authentication.
-* The application provides a convenient way for users to view groceries and place orders online. View all details of past or present history order
+## Outcome of Grocery App
+
+* Developed a user-friendly **Online Grocery Delivery Application** for browsing and purchasing grocery products.
+* Implemented **product listing, product management, and order-related functionalities**.
+* Designed a **responsive frontend** to provide a smooth and convenient user experience.
+* Developed **RESTful APIs** using Node.js and Express.js for efficient communication between the frontend and backend.
+* Integrated **MongoDB** for storing and managing product, user, and order-related data.
+* Implemented basic **authentication and secure data handling** for user management.
+* Gained practical knowledge of **full-stack development, API integration, database management, and authentication**.
+* The application provides users with a convenient platform to **browse groceries, manage products, and place orders online**.
+d place orders online. View all details of past or present history order
 * To do shopping all things 
